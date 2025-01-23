@@ -1,9 +1,7 @@
 package com.yu.utils.id;
 
 /**
- * @author yu
- * @description 雪花算法生成分布式ID
- * @date 2025-01-23
+ * 雪花算法生成分布式ID
  */
 public class SnowFlakeUtil {
 
